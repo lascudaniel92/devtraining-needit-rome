@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite">
+    <scan_check_suite action="DELETE">
+        <active>true</active>
+        <description>Test Suite for the NeedIt application</description>
+        <name>NeedIt App</name>
+        <private>false</private>
+        <scorecard>false</scorecard>
+        <sys_class_name>scan_check_suite</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 15:32:49</sys_created_on>
+        <sys_id>3b2940a9db994110ccf88e4748961971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>scan_check_suite_3b2940a9db994110ccf88e4748961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 15:32:49</sys_updated_on>
+        <triggers/>
+    </scan_check_suite>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e414c84bdbc2dbcc8264f70fbf961961</instance_id>
+        <instance_name>dev59553</instance_name>
+        <name>scan_check_suite_3b2940a9db994110ccf88e4748961971</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite"><scan_check_suite action="INSERT_OR_UPDATE"><active>true</active><description>Test Suite for the NeedIt application</description><name>NeedIt App</name><private>false</private><scorecard>false</scorecard><sys_class_name>scan_check_suite</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-26 15:32:49</sys_created_on><sys_id>3b2940a9db994110ccf88e4748961971</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt App</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>scan_check_suite_3b2940a9db994110ccf88e4748961971</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-26 15:32:49</sys_updated_on><triggers/></scan_check_suite></record_update>]]></payload>
+        <payload_hash>1085597271</payload_hash>
+        <record_name>NeedIt App</record_name>
+        <reverted_from/>
+        <source>23bcc17bdb414110ccf88e4748961974</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 15:32:49</sys_created_on>
+        <sys_id>ab3900a9db994110ccf88e4748961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e97049f8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 15:32:49</sys_updated_on>
+        <type>Suite</type>
+        <update_guid>e33900a90a9941106058f237f0ac8116</update_guid>
+        <update_guid_history>e33900a90a9941106058f237f0ac8116:1085597271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt App">ea59c0a9db994110ccf88e474896198a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-26 15:33:18</sys_created_on>
+        <sys_db_object display_value="" name="scan_check_suite">scan_check_suite</sys_db_object>
+        <sys_id>3748c5d27e8444fca3b276cda03b0d01</sys_id>
+        <sys_metadata>3b2940a9db994110ccf88e4748961971</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt App</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>scan_check_suite_3b2940a9db994110ccf88e4748961971</sys_update_name>
+        <sys_update_version display_value="scan_check_suite_3b2940a9db994110ccf88e4748961971">ab3900a9db994110ccf88e4748961916</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-26 15:33:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
